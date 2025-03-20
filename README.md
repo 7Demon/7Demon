@@ -17,3 +17,5 @@ i'm a junior web developer
 [![](https://visitcount.itsvg.in/api?id=7Demon&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🐍 GitHub Contribution Snake
+![Snake animation](https://github.com/7Demon/7Demon/blob/output/snake.svg)
