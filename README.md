@@ -15,7 +15,8 @@ i'm a junior web developer
 
 ---
 [![](https://visitcount.itsvg.in/api?id=7Demon&icon=0&color=0)](https://visitcount.itsvg.in)
-![Visitor Count](https://api.countapi.xyz/hit/github.com/7Demon)
+![Visitor Count](https://komarev.com/ghpvc/?username=7Demon&color=blue)
+
 
 
 ### 🐍 GitHub Contribution Snake
