@@ -16,14 +16,14 @@ i'm a junior web developer
 ---
 [![](https://visitcount.itsvg.in/api?id=7Demon&icon=0&color=0)](https://visitcount.itsvg.in)
 ![Visitor Count](https://komarev.com/ghpvc/?username=7Demon&color=blue)
-## 🌐 Web Projects
+## 🌐 Projects
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>UMSChain</h3>
-      <p>Blockchain-based certificate verification website</p>
-      <a href="[https://github.com/7Demon/umschain](https://umschain.vercel.app/)" target="_blank">
+      <h3>Smart Contract NFT</h3>
+      <p> For Blockchain-based certificate verification</p>
+      <a href="https://github.com/7Demon/build-ntf-minter-with-smartcontract" target="_blank">
         <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" />
       </a>
     </td>
