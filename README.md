@@ -31,7 +31,7 @@ i'm a junior web developer
       <p align="center">
         <a href="https://umschain.vercel.app/" target="_blank">
           <img 
-            src="assets/umschain-banner.png" 
+            src="assets/Screenshot 2026-01-13 000138.png" 
             alt="UMSChain Project Banner"
             width="85%"
           />
