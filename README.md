@@ -27,13 +27,7 @@ i'm a junior web developer
         <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" />
       </a>
     </td>
-    <td align="center" width="50%">
-      <h3>UMSChain</h3>
-      <p>WebSite Blockchain-based certificate verification</p>
-      <a href="https://umschain.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
+    [![UMSChain Preview](assets/Screenshot 2026-01-13 000138.png)](https://umschain.vercel.app)
 
   </tr>
 </table>
