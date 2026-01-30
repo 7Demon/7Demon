@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a junior web2 and web3 developer
+i'm a junior developer (web2 and web3) 
 
 
 # 💻 Tech Stack:
