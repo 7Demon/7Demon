@@ -13,9 +13,6 @@ i'm a junior developer (web2 and web3)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=7Demon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=7Demon&icon=0&color=0)](https://visitcount.itsvg.in)
-![Visitor Count](https://komarev.com/ghpvc/?username=7Demon&color=blue)
 ## 🌐 Projects
 
 <table>
