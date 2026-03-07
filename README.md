@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a web2 and web3 developer
+i'm a web2 and web3 developer.
 
 
 # 💻 Tech Stack:
