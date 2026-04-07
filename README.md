@@ -14,4 +14,3 @@ i'm a web2 and web3 developer.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=7Demon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
