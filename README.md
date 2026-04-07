@@ -15,32 +15,3 @@ i'm a web2 and web3 developer.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=7Demon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-
-## 🌐 Projects
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>Smart Contract NFT</h3>
-      <p> For Blockchain-based certificate verification</p>
-      <a href="https://github.com/7Demon/build-ntf-minter-with-smartcontract" target="_blank">
-        <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://umschain.vercel.app/" target="_blank">
-          <img 
-            src="assets/Screenshot 2026-01-13 000138.png" 
-            alt="UMSChain Project Banner"
-            width="85%"
-          />
-        </a>
-      </p>
-      <p align="center">
-        Blockchain-based certificate verification website built with modern web technologies.
-      </p>
-    </td>
-  </tr>
-</table>
