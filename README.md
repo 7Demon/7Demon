@@ -10,11 +10,11 @@
  
 ## 🧑‍💻 About Me
  
-Software Developer dengan pengalaman mengembangkan aplikasi web menggunakan **Laravel**, **React**, **PHP**, **Python**, dan **MySQL**.
-Memahami prinsip *clean code*, *debugging*, *version control* dengan Git, serta memiliki ketertarikan pada pengembangan **blockchain** menggunakan **Solidity** dan **Hardhat**.
+Software Developer with experience building web applications using **Laravel**, **React**, **PHP**, **Python**, and **MySQL**.
+I value clean code, thorough debugging, and collaborative development with Git. I also have a strong interest in **blockchain development** using **Solidity** and **Hardhat**.
  
-- 🎓 Mahasiswa **S1 Informatika** di **Universitas Muhammadiyah Surakarta** (IPK: 3.80 / 4.00)
-- 🌱 Sedang mendalami **Web3**, **Layer-2 Blockchain**, dan **AI Agent**
+- 🎓 Bachelor's student in **Informatics/Computer science**
+- 🌱 Currently deepening my knowledge in **Web3**, **Layer-2 Blockchain**, and **AI Agents**
 - 📍 Based in **Indonesia**
 ---
  
@@ -53,36 +53,36 @@ Memahami prinsip *clean code*, *debugging*, *version control* dengan Git, serta 
 ### 🏛️ Web Developer Intern — *Diskominfo Karanganyar*
 `February 2025 – April 2025` · Karanganyar, Indonesia
  
-- Mengembangkan dan memelihara website menggunakan **HTML, CSS, dan PHP** dengan struktur kode yang terorganisir dan scalable.
-- Melakukan **debugging & troubleshooting** yang meningkatkan stabilitas sistem hingga **90%**.
-- Meningkatkan **responsive design** untuk kompatibilitas di desktop, tablet, dan mobile.
-- Berkolaborasi dalam tim menggunakan **Git** untuk code review dan deployment fitur.
+- Developed and maintained websites using **HTML, CSS, and PHP** with organized and scalable code structure.
+- Performed **debugging & troubleshooting** to identify and resolve technical issues, improving system stability by up to **90%**.
+- Enhanced **responsive design** to ensure compatibility across desktop, tablet, and mobile devices.
+- Collaborated in a team using **Git** for version control, code review, and feature deployment.
 ---
  
-### 🖥️ Teknisi Komputer Intern — *Green Komputer*
+### 🖥️ Computer Technician Intern — *Green Komputer*
 `January 2021 – April 2021` · Sragen, Indonesia
  
-- Instalasi, konfigurasi, dan pemeliharaan **hardware & software** pada **30+ unit** komputer/laptop.
-- Troubleshooting sistem operasi, jaringan, dan perangkat dengan tingkat penyelesaian **90%+**.
-- Instalasi & konfigurasi **Windows/Linux** sesuai kebutuhan pengguna.
-- Memberikan *end-user support* untuk memastikan operasional berjalan lancar.
+- Installed, configured, and maintained **hardware & software** on **30+ computers/laptops**.
+- Performed troubleshooting on operating systems, networks, and peripherals with a resolution rate of **90%+**.
+- Installed and configured **Windows/Linux** operating systems according to user needs.
+- Provided **end-user technical support** to ensure smooth day-to-day operations.
 ---
  
 ## 🚀 Projects
  
-### 🎓 Sistem Verifikasi Ijazah Berbasis Blockchain
-> Blockchain-based diploma issuance and verification system
+### 🎓 Blockchain-Based Diploma Verification System
+> A secure and transparent academic credential issuance and verification system
  
-- Mengembangkan sistem berbasis **smart contract ERC-721** pada **zkSync Era**.
-- Meningkatkan **keamanan, transparansi**, dan mencegah pemalsuan dokumen akademik.
+- Built using **ERC-721 smart contracts** deployed on **zkSync Era**.
+- Enhances **security and transparency** while preventing academic document forgery.
 - Tech Stack: `Solidity` · `Hardhat` · `zkSync Era` · `ERC-721`
 ---
  
-### 🛒 Ecommerce Application
-> Full-featured responsive e-commerce web app
+### 🛒 E-Commerce Application
+> A full-featured responsive e-commerce web application
  
-- Fitur: **autentikasi pengguna**, manajemen produk, keranjang belanja, pengelolaan pesanan.
-- Dioptimalkan untuk **performa** dan **pengalaman pengguna**.
+- Features include **user authentication**, product management, shopping cart, and order management.
+- Optimized for **performance** and **user experience**.
 - Tech Stack: `Laravel` / `React.js` · `MySQL` · `Tailwind CSS`
 ---
  
