@@ -26,6 +26,8 @@ Memahami prinsip *clean code*, *debugging*, *version control* dengan Git, serta 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -38,6 +40,7 @@ Memahami prinsip *clean code*, *debugging*, *version control* dengan Git, serta 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI_Agent-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
  
 ### Blockchain
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -100,7 +103,7 @@ Memahami prinsip *clean code*, *debugging*, *version control* dengan Git, serta 
 | 📧 Email | [dickyramadhan.dev@gmail.com](mailto:dickyramadhan.dev@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/dickyramadhan543](https://linkedin.com/in/dickyramadhan543) |
 | 🌐 Portfolio | [dickydev.vercel.app](https://dickydev.vercel.app/) |
-| 📱 Phone | +62 (621) 799-5548 |
+| 📱 Phone | +62 81336530958 |
  
 ---
  
