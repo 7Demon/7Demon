@@ -1,6 +1,112 @@
-## 💫 About Me:
-## i'm a web2 and web3 developer
-
-
-## 💻 Tech Stack:
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+<div align="center">
+# Hi there, I'm Dicky Ramadhan 👋
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-dickydev.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://dickydev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dickyramadhan543-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dickyramadhan543)
+[![Email](https://img.shields.io/badge/Email-dickyramadhan.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dickyramadhan.dev@gmail.com)
+ 
+</div>
+---
+ 
+## 🧑‍💻 About Me
+ 
+Software Developer dengan pengalaman mengembangkan aplikasi web menggunakan **Laravel**, **React**, **PHP**, **Python**, dan **MySQL**.
+Memahami prinsip *clean code*, *debugging*, *version control* dengan Git, serta memiliki ketertarikan pada pengembangan **blockchain** menggunakan **Solidity** dan **Hardhat**.
+ 
+- 🎓 Mahasiswa **S1 Informatika** di **Universitas Muhammadiyah Surakarta** (IPK: 3.80 / 4.00)
+- 🌱 Sedang mendalami **Web3**, **Layer-2 Blockchain**, dan **AI Agent**
+- 📍 Based in **Indonesia**
+---
+ 
+## 🛠️ Tech Stack
+ 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+ 
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
+ 
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+ 
+### Blockchain
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![zkSync](https://img.shields.io/badge/zkSync_Era-4E529A?style=for-the-badge&logo=zksync&logoColor=white)
+ 
+---
+ 
+## 💼 Experience
+ 
+### 🏛️ Web Developer Intern — *Diskominfo Karanganyar*
+`February 2025 – April 2025` · Karanganyar, Indonesia
+ 
+- Mengembangkan dan memelihara website menggunakan **HTML, CSS, dan PHP** dengan struktur kode yang terorganisir dan scalable.
+- Melakukan **debugging & troubleshooting** yang meningkatkan stabilitas sistem hingga **90%**.
+- Meningkatkan **responsive design** untuk kompatibilitas di desktop, tablet, dan mobile.
+- Berkolaborasi dalam tim menggunakan **Git** untuk code review dan deployment fitur.
+---
+ 
+### 🖥️ Teknisi Komputer Intern — *Green Komputer*
+`January 2021 – April 2021` · Sragen, Indonesia
+ 
+- Instalasi, konfigurasi, dan pemeliharaan **hardware & software** pada **30+ unit** komputer/laptop.
+- Troubleshooting sistem operasi, jaringan, dan perangkat dengan tingkat penyelesaian **90%+**.
+- Instalasi & konfigurasi **Windows/Linux** sesuai kebutuhan pengguna.
+- Memberikan *end-user support* untuk memastikan operasional berjalan lancar.
+---
+ 
+## 🚀 Projects
+ 
+### 🎓 Sistem Verifikasi Ijazah Berbasis Blockchain
+> Blockchain-based diploma issuance and verification system
+ 
+- Mengembangkan sistem berbasis **smart contract ERC-721** pada **zkSync Era**.
+- Meningkatkan **keamanan, transparansi**, dan mencegah pemalsuan dokumen akademik.
+- Tech Stack: `Solidity` · `Hardhat` · `zkSync Era` · `ERC-721`
+---
+ 
+### 🛒 Ecommerce Application
+> Full-featured responsive e-commerce web app
+ 
+- Fitur: **autentikasi pengguna**, manajemen produk, keranjang belanja, pengelolaan pesanan.
+- Dioptimalkan untuk **performa** dan **pengalaman pengguna**.
+- Tech Stack: `Laravel` / `React.js` · `MySQL` · `Tailwind CSS`
+---
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+![Dicky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dickyramadhan543&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dickyramadhan543&layout=compact&theme=tokyonight&hide_border=true)
+ 
+</div>
+---
+ 
+## 📫 Contact Me
+ 
+| Platform | Link |
+|----------|------|
+| 📧 Email | [dickyramadhan.dev@gmail.com](mailto:dickyramadhan.dev@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/dickyramadhan543](https://linkedin.com/in/dickyramadhan543) |
+| 🌐 Portfolio | [dickydev.vercel.app](https://dickydev.vercel.app/) |
+| 📱 Phone | +62 (621) 799-5548 |
+ 
+---
+ 
+<div align="center">
+*"Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines."*
+ 
+⭐ **Feel free to explore my repositories and leave a star if you find something useful!**
+ 
+</div>
