@@ -68,22 +68,6 @@ I value clean code, thorough debugging, and collaborative development with Git. 
 - Provided **end-user technical support** to ensure smooth day-to-day operations.
 ---
  
-## 🚀 Projects
- 
-### 🎓 Blockchain-Based Diploma Verification System
-> A secure and transparent academic credential issuance and verification system
- 
-- Built using **ERC-721 smart contracts** deployed on **zkSync Era**.
-- Enhances **security and transparency** while preventing academic document forgery.
-- Tech Stack: `Solidity` · `Hardhat` · `zkSync Era` · `ERC-721`
----
- 
-### 🛒 E-Commerce Application
-> A full-featured responsive e-commerce web application
- 
-- Features include **user authentication**, product management, shopping cart, and order management.
-- Optimized for **performance** and **user experience**.
-- Tech Stack: `Laravel` / `React.js` · `MySQL` · `Tailwind CSS`
 ---
  
 ## 📊 GitHub Stats
