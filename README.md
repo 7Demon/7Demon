@@ -59,14 +59,6 @@ I value clean code, thorough debugging, and collaborative development with Git. 
 - Collaborated in a team using **Git** for version control, code review, and feature deployment.
 ---
  
-### 🖥️ Computer Technician Intern — *Green Komputer*
-`January 2021 – April 2021` · Sragen, Indonesia
- 
-- Installed, configured, and maintained **hardware & software** on **30+ computers/laptops**.
-- Performed troubleshooting on operating systems, networks, and peripherals with a resolution rate of **90%+**.
-- Installed and configured **Windows/Linux** operating systems according to user needs.
-- Provided **end-user technical support** to ensure smooth day-to-day operations.
----
  
 ---
  
