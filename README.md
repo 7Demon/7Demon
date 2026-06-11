@@ -1,5 +1,5 @@
 <div align="center">
-# Hi there, I'm Dicky Ramadhan 👋
+Hi there, I'm Dicky Ramadhan 👋
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-dickydev.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://dickydev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dickyramadhan543-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dickyramadhan543)
