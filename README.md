@@ -7,7 +7,6 @@ Hi there, I'm Dicky Ramadhan 👋
  
 </div>
 ---
- 
 ## 🧑‍💻 About Me
  
 Software Developer with experience building web applications using **Laravel**, **React**, **PHP**, **Python**, and **MySQL**.
