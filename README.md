@@ -8,7 +8,7 @@ Hi there, I'm Dicky Ramadhan 👋
 </div>
 
 ## 🧑‍💻 About Me
- 
+---
 Software Developer with experience building web applications using **Laravel**, **React**, **PHP**, **Python**, and **MySQL**.
 I value clean code, thorough debugging, and collaborative development with Git. I also have a strong interest in **blockchain development** using **Solidity** and **Hardhat**.
  
