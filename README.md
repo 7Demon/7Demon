@@ -6,7 +6,7 @@ Hi there, I'm Dicky Ramadhan 👋
 [![Email](https://img.shields.io/badge/Email-dickyramadhan.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dickyramadhan.dev@gmail.com)
  
 </div>
----
+
 ## 🧑‍💻 About Me
  
 Software Developer with experience building web applications using **Laravel**, **React**, **PHP**, **Python**, and **MySQL**.
