@@ -77,7 +77,7 @@ I value clean code, thorough debugging, and collaborative development with Git. 
 |----------|------|
 | 📧 Email | [dickyramadhan.dev@gmail.com](mailto:dickyramadhan.dev@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/dickyramadhan543](https://linkedin.com/in/dickyramadhan543) |
-| 🌐 Portfolio | [dickydev.vercel.app](https://dickydev.vercel.app/) |
+| 🌐 Portfolio | [dickydev.vercel.app](https://ramalabs.qzz.io/) |
 | 📱 Phone | +62 81336530958 |
  
 ---
