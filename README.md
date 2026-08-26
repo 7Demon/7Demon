@@ -84,6 +84,6 @@ I value clean code, thorough debugging, and collaborative development with Git. 
 <div align="center">
 *"Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines."*
  
-⭐ **Feel free to explore my repositories and leave a star if you find something useful!**
+**Feel free to explore my repositories and leave a star if you find something useful!**
  
 </div>
