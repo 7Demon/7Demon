@@ -58,17 +58,6 @@ I value clean code, thorough debugging, and collaborative development with Git. 
 - Collaborated in a team using **Git** for version control, code review, and feature deployment.
 ---
  
- 
----
- 
-## 📊 GitHub Stats
- 
-<div align="center">
-![Dicky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dickyramadhan543&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dickyramadhan543&layout=compact&theme=tokyonight&hide_border=true)
- 
-</div>
 ---
  
 ## 📫 Contact Me
