@@ -46,16 +46,6 @@ I value clean code, thorough debugging, and collaborative development with Git. 
 ![zkSync](https://img.shields.io/badge/zkSync_Era-4E529A?style=for-the-badge&logo=zksync&logoColor=white)
  
 ---
- 
-## 💼 Experience
-
-### 🏛️ Web Developer Intern — *Diskominfo Karanganyar*
-`February 2025 – April 2025` · Karanganyar, Indonesia
- 
-- Developed and maintained websites using **HTML, CSS, and PHP** with organized and scalable code structure.
-- Performed **debugging & troubleshooting** to identify and resolve technical issues, improving system stability by up to **90%**.
-- Enhanced **responsive design** to ensure compatibility across desktop, tablet, and mobile devices.
-- Collaborated in a team using **Git** for version control, code review, and feature deployment.
 ---
  
 ---
