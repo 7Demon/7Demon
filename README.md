@@ -46,6 +46,7 @@ I value clean code, thorough debugging, and collaborative development with Git. 
 ![zkSync](https://img.shields.io/badge/zkSync_Era-4E529A?style=for-the-badge&logo=zksync&logoColor=white)
  
 ---
+ ## woi gu dari senin bikin kontribusi ya pantek
  
 ---
  
