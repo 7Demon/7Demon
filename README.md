@@ -46,17 +46,6 @@ I value clean code, thorough debugging, and collaborative development with Git. 
 ![zkSync](https://img.shields.io/badge/zkSync_Era-4E529A?style=for-the-badge&logo=zksync&logoColor=white)
  
 ---
- 
----
- 
-## 📫 Contact Me
- 
-| Platform | Link |
-|----------|------|
-| 📧 Email | [dickyramadhan.dev@gmail.com](mailto:dickyramadhan.dev@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/dickyramadhan543](https://linkedin.com/in/dickyramadhan543) |
-| 🌐 Portfolio | [https://ramalabs.qzz.io/](https://ramalabs.qzz.io/) |
- 
 ---
  
 <div align="center">
