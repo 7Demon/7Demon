@@ -13,7 +13,7 @@ Software Developer with experience building web applications using **Laravel**, 
 I value clean code, thorough debugging, and collaborative development with Git. I also have a strong interest in **blockchain development** using **Solidity** and **Hardhat**.
  
 - 🎓 Bachelor's student in **Informatics/Computer science**
-- 🌱 Currently deepening my knowledge in **Web3**, **Layer-2 Blockchain**, and **AI Agents**
+- 🌱 Currently deepening my knowledge in **Web3**, **Blockchain**, and **AI Agents**
 - 📍 Based in **Indonesia**
 ---
  
