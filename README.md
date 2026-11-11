@@ -54,3 +54,4 @@ I value clean code, thorough debugging, and collaborative development with Git. 
 **Feel free to explore my repositories and leave a star if you find something useful!**
  
 </div>
+fuck u all
